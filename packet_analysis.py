@@ -1,4 +1,3 @@
-# Programmed in 2024 by Karthik P.
 from scapy.all import rdpcap, TCP
 
 def analyze_packets(pcap_file):
